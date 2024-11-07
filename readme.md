@@ -2,7 +2,7 @@
 
 ![A preview of the Payload Directory Starter](https://raw.githubusercontent.com/tuanphungcz/withpayload/refs/heads/main/public/media/withpayload-projects.jpg)
 
-![A preview of the Payload Tailwind Blog](https://raw.githubusercontent.com/tuanphungcz/withpayload/refs/heads/main/public/media/withpayload-blog.jpeg)
+![A preview of the Payload Tailwind Blog](https://raw.githubusercontent.com/tuanphungcz/withpayload/refs/heads/main/public/media/withpayload-blog.jpg)
 
 ## Demo
 
